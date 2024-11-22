@@ -1,4 +1,4 @@
 ## NodeJS
 ### Run
-`npm install`
+`npm install` \n
 `npm run dev`
